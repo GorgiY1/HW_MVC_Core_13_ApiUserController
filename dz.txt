@@ -1,0 +1,3 @@
+https://github.com/Terabiterr/bv_212_asp_net_shop.git
+1. Додати до проекту в папку API, контроллер ProductsController, ролі.
+2. Додати в controllers/API/APIUserController.cs CreateRole, AssignRole, Update, Delete (Прописати права доступа до цих методів)
